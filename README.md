@@ -1,2 +1,2 @@
-# Midi Keyframer for Davinci Resolve
+# DaMidi - om_midi for davinci
 yea idk
