@@ -1,2 +1,2 @@
-# om-midi-but-davinci
+# Midi Keyframer for Davinci Resolve
 yea idk
