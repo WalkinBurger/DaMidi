@@ -1,2 +1,2 @@
-# DaMidi - om_midi for davinci
+# DaMidi - om_midi for davinci resolve
 yea idk
